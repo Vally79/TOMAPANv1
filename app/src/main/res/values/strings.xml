@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">T.O.M.A.P.A.N.</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#6afbc1</color>
+</resources>
